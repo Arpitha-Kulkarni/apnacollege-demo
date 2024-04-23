@@ -1,2 +1,3 @@
 # apnacollege-demo
-my second git repository.
+This my second git repository.
+Author-Arpitha Kulkarni
