@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my second git repository.
 <br>
-Author-Arpitha Kulkarni
+Author-Arpitha Kulkarni(AVK)
